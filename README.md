@@ -163,7 +163,7 @@ const murugan = {
 | 🎓 Degree | 🏫 Institution | 📅 Year |
 |:---:|:---:|:---:|
 | Diploma in Plastic Technology | Central Institute of Plastics Engineering & Technology (CIPET) | Completed |
-| MERN Full Stack Development | Softlogi Academy | 2025 |
+| MERN Full Stack Development | Softlogic Academy | 2025 |
 
 </div>
 
