@@ -9,7 +9,7 @@
   &nbsp;
   <a href="www.linkedin.com/in/murugan-m18005"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
   &nbsp;
-  <a href="mailto:muruganm@email.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:muruganm18005@email.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
 </div>
 
 ---
